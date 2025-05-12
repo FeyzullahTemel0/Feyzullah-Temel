@@ -1,44 +1,42 @@
-<!-- ───────────────────────── Banner ───────────────────────── -->
+<!-- ─────────────── Banner ─────────────── -->
 <p align="center">
-  <!-- Light & Dark uyumlu başlık -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F57F&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi👋,+I'm+Feyzullah+TEMEL;Full‑Stack+Dev+⚡">
-    <img alt="Banner"
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=303030&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi👋,+I'm+Feyzullah+TEMEL;Full‑Stack+Dev+⚡">
+            srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F57F&center=true&vCenter=true&width=930&height=110&lines=👋+Merhaba%2C+ben+Feyzullah+TEMEL;Full‑Stack+Developer+%7C+Python+.NET+JS">
+    <img alt="banner"
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=303030&center=true&vCenter=true&width=930&height=110&lines=👋+Merhaba%2C+ben+Feyzullah+TEMEL;Full‑Stack+Developer+%7C+Python+.NET+JS">
   </picture>
 </p>
 
-<!-- ───────────────────────── Badges ────────────────────────── -->
+<!-- ─────────────── Badges ─────────────── -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=feyzullahtemel0&style=flat-square" alt="views"/>
-  <img src="https://img.shields.io/github/stars/feyzullahtemel0?style=flat-square" alt="stars"/>
   <img src="https://img.shields.io/github/followers/feyzullahtemel0?style=flat-square" alt="followers"/>
-  <img src="https://img.shields.io/badge/Code-Python|.NET|JS-informational?style=flat-square" alt="stack"/>
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20.NET%20Core%20%7C%20Angular-informational?style=flat-square" alt="stack"/>
 </p>
 
-<!-- ───────────────────────── About ─────────────────────────── -->
+<!-- ─────────────── About ─────────────── -->
 <details open>
-<summary><strong>⚡ Hakkımda</strong></summary>
+<summary><strong>💡 Hakkımda</strong></summary>
 
-- 🔭 Şu an **Angular, Python, ASP.NET Core** tabanlı **Full‑Stack** projeler geliştiriyorum.  
-- 🌱 Derinleştiğim alanlar: **Yapay Zekâ, TypeScript ekosistemi**  
-- 📫 İletişim: <a href="mailto:feyzullaht421@gmail.com">feyzullaht421@gmail.com</a>  
+- 🔭 Şu an **Angular, Python, ASP.NET Core** tabanlı **Full‑Stack** projeler geliştiriyorum.  
+- 🌱 Derinleştiğim alanlar: **Yapay Zekâ, JavaScript/TypeScript ekosistemi**  
+- 📫 E‑posta: <a href="mailto:feyzullaht421@gmail.com">feyzullaht421@gmail.com</a>  
 - 🧘 Fun fact: *Calm mind, sharp code.*  
 
 </details>
 
-<!-- ──────────────────────── Tech Stack ─────────────────────── -->
+<!-- ─────────────── Tech stack ─────────────── -->
 <details>
 <summary><strong>🛠️ Kullandığım Teknolojiler</strong></summary>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dotnet,cs,angular,vue,js,ts,html,css,bootstrap,firebase,mssql,mysql,arduino&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=python,dotnet,cs,angular,vue,js,ts,html,css,bootstrap,firebase,mssql,mysql,arduino&perline=8" />
 </p>
 </details>
 
-<!-- ──────────────────────── GitHub Stats ───────────────────── -->
+<!-- ─────────────── GitHub stats ─────────────── -->
 <details open>
-<summary><strong>📊 GitHub İstatistiklerim</strong></summary>
+<summary><strong>📊 GitHub İstatistikleri</strong></summary>
 <p align="center">
   <img height="180"
        src="https://github-readme-stats.vercel.app/api?username=feyzullahtemel0&show_icons=true&rank_icon=percentile&hide_border=true&theme=transparent"
@@ -53,7 +51,7 @@
 </p>
 </details>
 
-<!-- ───────────────────────── Footer ────────────────────────── -->
+<!-- ─────────────── Footer ─────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00F57F&center=true&vCenter=true&width=435&lines=Happy+Coding!" alt="footer"/>
+  ⭐ Profilimi yararlı bulduysanız takip ve ★ bırakmayı unutmayın!
 </p>
