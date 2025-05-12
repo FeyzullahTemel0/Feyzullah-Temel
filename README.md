@@ -21,9 +21,13 @@
 
 <!-- ───────────────═【  T E C H   S T A C K 】═─────────────── -->
 ### 🛠️ Kullandığım Teknolojiler
+<!-- Tech‑stack ikonları -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dotnet,cs,angular,react,js,ts,html,css,bootstrap,docker,firebase,mssql,mysql,arduino,git&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,dotnet,csharp,angular,react,js,ts,html,css,bootstrap,docker,firebase,mysql,arduino,git&perline=9" />
+  <!-- SQL Server yok: yerine rozet -->
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
+
 
 <!-- ───────────────═【  G I T H U B   K U P A L A R I 】═──────── -->
 ### 🏆 GitHub Kupaları
