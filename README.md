@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Feyzullah%20TEMEL%20🚀&width=1000&height=200" alt="banner"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1000&height=60&lines=Full‑Stack+Developer+%7C+Python+.NET+JS;Yapay+Zekâ+Meraklısı" alt="typing intro"/>
+
 </p>
 
 <!-- ───────────────═【  Q U I C K   F A C T S 】═─────────────── -->
