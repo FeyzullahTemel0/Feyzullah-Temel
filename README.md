@@ -14,8 +14,8 @@
 
 <!-- ───────────────═【  H A K K I M D A 】═─────────────── -->
 ### 💡 Hakkımda
-- 🔭 Şu an **Angular, Python, ASP.NET Core** odaklı **Full‑Stack** projeler geliştiriyorum.  
-- 🤖 İlgi: **Yapay Zekâ / Derin Öğrenme**  
+- 🔭 Şu an ** Python, Makine Öğrenmesi, Derin Öğrenme, Yapay Zeka Matematiği, Angular, JS, HTML/CSS, TypeScript, ASP.NETCore WebAPI ** odaklı **Full‑Stack** projeler geliştiriyorum.  
+- 🤖 İlgi: **Yapay Zekâ / Makine Öğrenmesi /Derin Öğrenme / Yapay Zeka Matematiği**  
 - 🌱 Geliştirdiğim yan beceriler: **TypeScript, Docker, CI‑CD**  
 - ✉️ E‑posta: <a href="mailto:feyzullaht421@gmail.com">feyzullaht421@gmail.com</a>  
 
