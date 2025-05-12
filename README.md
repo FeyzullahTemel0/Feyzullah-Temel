@@ -41,9 +41,6 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyzullahtemel0&layout=compact&langs_count=10&hide_border=true&theme=tokyonight"
        alt="top langs"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feyzullahtemel0&hide_border=true&theme=tokyonight" alt="streak"/>
-</p>
 
 <!-- ───────────────═【  C O N T A C T 】═─────────────── -->
 ### 📫 İletişim
