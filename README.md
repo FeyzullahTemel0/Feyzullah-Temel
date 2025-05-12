@@ -1,30 +1,47 @@
-<h1 align="center">Hi 👋, I'm Feyzullah TEMEL </h1>
-<h3 align="center">Python Developer and Full-Stack Developer from Turkey.</h3>
-
-
-- 🔭I’m currently working and learning on **Full Stack Developer | Angular, Python, ASP.NET Core, JavaScript, TypeScript, Bootstrap, HTML&CSS, C#, Vue.js, Firebase, MSSQL, MySQL**
-
-<img align="right" alt ="Coding" width="400" style="border-radius:10px;" src="https://media4.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e47rp0svcx5669cbr1534u86fggkk701nok3k7ghipm&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
-- 🌱 I’m currently learning **Python, JS, Artificial Intelligence Expertise**
-
-- 📫 How to reach me **feyzullaht421@gmail.com**
-
-- ⚡ Fun fact **I am relax**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/feyzullahtemel/" target="blank"><img style="border-radius:15px; align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="feyzullah-temel-" height="30" width="40" /></a>
-<a href="mailto:feyzullaht421@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30" /></a>
+<!-- ----------------------------------------------------- -->
+<!-- Banner ------------------------------------------------>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Feyzullah+TEMEL;Full‑Stack+Developer+%7C+Python+%E2%80%A2+.NET+%E2%80%A2+JavaScript" alt="Typing Intro">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://en.cppreference.com/w/c/language" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<!-- Quick badges ---------------------------------------- -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=feyzullahtemel0&style=for-the-badge&color=lightgrey" alt="views"/>
+  <a href="https://github.com/feyzullahtemel0?tab=followers"><img src="https://img.shields.io/github/followers/feyzullahtemel0?style=for-the-badge" alt="followers"/></a>
+  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
+<!-- About me -------------------------------------------- -->
+### ⚡ Hakkımda
 
+- 🔭 Şu an **Angular, Python, ASP.NET Core** odaklı **Full‑Stack** projeler geliştiriyorum.  
+- 🌱 Derinleştiğim konular: **Yapay Zekâ, JavaScript/TypeScript ekosistemi**  
+- 📫 Bana ulaş: **feyzullaht421@gmail.com**  
+- 🧘 Fun fact: *“Calm mind, sharp code.”*  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feyzullahtemel0&show_icons=true&locale=en&layout=compact" alt="feyzullahtemel0" /></p>
+<!-- Social links ---------------------------------------- -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/feyzullahtemel/" target="_blank"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="mailto:feyzullaht421@gmail.com" target="_blank"><img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=feyzullahtemel0&show_icons=true&locale=en" alt="feyzullahtemel0" /></p>
+<!-- Tech stack ------------------------------------------ -->
+### 🛠️ Kullandığım Teknolojiler
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,angular,vue,js,ts,java,c,html,css,bootstrap,arduino,firebase,mysql,mssql,postman&perline=9" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=feyzullahtemel0&" alt="feyzullahtemel0" /></p>
+<!-- GitHub stats ---------------------------------------- -->
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=feyzullahtemel0&show_icons=true&theme=transparent&hide_rank=false" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feyzullahtemel0&layout=compact&langs_count=10&theme=transparent" />
+</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feyzullahtemel0&theme=transparent&hide_border=true" />
+</p>
+
+<!-- Footer ---------------------------------------------- -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&vCenter=true&duration=2000&pause=1000&color=00F57F&width=435&lines=Happy+Coding!"/>
+</p>
