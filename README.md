@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F57F&center=true&vCenter=true&width=930&height=110&lines=👋+Merhaba%2C+ben+Feyzullah+TEMEL;Full‑Stack+Developer+%7C+Python+.NET+JS">
-    <img alt="banner"
+    <img alt=""
          src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=303030&center=true&vCenter=true&width=930&height=110&lines=👋+Merhaba%2C+ben+Feyzullah+TEMEL;Full‑Stack+Developer+%7C+Python+.NET+JS">
   </picture>
 </p>
